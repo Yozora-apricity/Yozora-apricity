@@ -34,7 +34,7 @@
       </a>
       &nbsp;
       <a href="https://facebook.com/yzrcity" style="text-decoration: none;">
-        <img src="https://skillicons.dev/icons?i=facebook&theme=dark" height="45" alt="Facebook" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" height="45" alt="Facebook" />
       </a>
       &nbsp;
       <a href="https://instagram.com/yzrcity" style="text-decoration: none;">
