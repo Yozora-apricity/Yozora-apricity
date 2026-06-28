@@ -13,7 +13,6 @@
   <p>
     Hi, I'm <b>Scherzo</b>. Outside of coding 💻, I enjoy playing chess ♟️, swimming 🏊, and badminton 🏸. 
     <br/>
-    I prefer meaningful conversations over small talk ❌.
   </p>
   <br/>
 </div>
